@@ -1,16 +1,38 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vwke/vwke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```python
+perfil = {
+    "nome": "Ferrari",
+    "foco": [
+        "Cybersecurity",
+        "Development",
+        "Exploit"
+    ]
+}
 
-Here are some ideas to get you started:
+status = perfil.run()
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *Trust the process.*
+
+---
+
+## o que eu uso:
+
+**Langs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+**sistemas operacionais**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+
+---
+
+## entrar em contato:
+
+[![Discord](https://img.shields.io/badge/SEUNICK.EXE-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ky8g)
+
+</div>
