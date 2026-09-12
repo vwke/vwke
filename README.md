@@ -1,17 +1,14 @@
 <div align="center">
 
-```python
-perfil = {
+
+eu = {
     "nome": "Ferrari",
-    "foco": [
+    "discord": "ky8g",
+    "foco":
         "Cybersecurity",
         "Development",
         "Exploit"
-    ]
-}
-
-status = perfil.run()
-```
+    }
 
 > *Trust the process.*
 
@@ -19,7 +16,7 @@ status = perfil.run()
 
 ## o que eu uso:
 
-**Langs**
+**langs**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -33,6 +30,6 @@ status = perfil.run()
 
 ## entrar em contato:
 
-[![Discord](https://img.shields.io/badge/SEUNICK.EXE-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ky8g)
+![Discord](https://img.shields.io/badge/ky8g-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
